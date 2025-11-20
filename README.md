@@ -1,22 +1,22 @@
-#Gerenciar clientes:
+# Gerenciar clientes:
 Cadastrar cliente
 Alterar informação
 Remover cliente
 Listar Clientes
 
-#Gerenciar Produtos:
+# Gerenciar Produtos:
 Cadastrar Produto
 Alterar informação
 Remover Produto
 Listar Produto
 
-#Gerenciar Laboratorio:
+# Gerenciar Laboratorio:
 Cadastrar Laboratorio
 Alterar informação
 Remover Laboratorio
 Listar Laboratorio
 
-#Gerenciar Categoria:
+# Gerenciar Categoria:
 Cadastrar Categoria
 Alterar informação
 Remover Categoria
